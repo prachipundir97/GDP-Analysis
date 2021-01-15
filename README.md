@@ -5,4 +5,4 @@ Since the most common measure of economic development is the GDP, you will analy
 
 Prerequisite : Intro to Python, Python for Data Science (numpy,pandas), Visualization using Python (matplotlib, seaborn)
 
- Data Source can be found herehttps://data.gov.in/
+ Data Source can be found here: https://data.gov.in/
